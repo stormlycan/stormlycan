@@ -21,9 +21,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormlycan&show_icons=true&locale=en&layout=compact" alt="stormlycan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stormlycan&show_icons=true&locale=en&layout=compact&theme=dark" alt="stormlycan" /></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=stormlycan&top_languages=true)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=stormlycan&theme=dark)](https://github.com/stormlycan)
 
 <!--
 **stormlycan/stormlycan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
